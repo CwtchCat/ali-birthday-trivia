@@ -1,0 +1,11 @@
+{
+  "compilerOptions": {
+    "target": "ES2017",
+    "module": "None",
+    "strict": true,
+    "outFile": "app.js",
+    "removeComments": false,
+    "sourceMap": true
+  },
+  "include": ["app.ts"]
+}

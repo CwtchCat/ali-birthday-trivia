@@ -1,0 +1,13 @@
+{
+  "name": "birthday-quiz",
+  "version": "1.0.0",
+  "description": "A birthday quiz web app",
+  "scripts": {
+    "build": "tsc",
+    "watch": "tsc --watch",
+    "serve": "npx serve ."
+  },
+  "devDependencies": {
+    "typescript": "^5.4.0"
+  }
+}
